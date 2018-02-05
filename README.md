@@ -1,7 +1,7 @@
 # README
 
 Vous pouvez consulter l'app sur <https://morning-fortress-30202.herokuapp.com/>
-Si je suis parvenu à charger le db:seed, 3 users sont enregistrés sur le même modèle
+3 users sont enregistrés sur le même modèle
 
 |username|email|mdp|
 |:---|:---:|---:|
